@@ -5,7 +5,7 @@ CMI-TRex-MP-Adapter.exe (Crypto Mining Insider T-Rex Miner Plugin Adapter) - Cop
 
 CMI-TRex-MP-Adapter.exe ("Software") is Crypto Miner Plugin Adapter software developed by Crypto Mining Insider Youtube Channel ("CMI") as a way of using Trex Miner 0.24.8 with 3rd party mining software tools including the later vesion of Nicehash Miner (3.0.6.9).
 
-This Software is Licensed, not sold. Anyone downloading, installing or using this software Agrees to do so solely at their own Risk and in accordance of the terms of this End-User.License-Agreement.pdf file attached in the Download. If you do not Agree to the License Terms DELETE the the software PRODUCT SOFTWARE immediately .
+This Software is Licensed, not sold. Anyone downloading, installing or using this software Agrees to do so solely at their own Risk and in accordance of the terms of this End-User-License-Agreement.pdf ("EULA") file attached in the Download. By Downloading, installing or using thie software you AGREE to the License Terms in the EULA. If you do not Agree to the License Terms STTOP USING and DELETE this Software PRODUCT Immediately.
 
 Any Public demonstration or videos using the software must clearly indicate the Official Source of the software and give proper acknowledgements and credit to the Authors (Crypto Mining Insider - Youtube Channel: https://www.youtube.com/c/CryptoMiningInsider)
 
