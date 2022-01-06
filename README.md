@@ -1,7 +1,7 @@
 # CMI-TRex-Miner-Plugin-Adapter
 CMI-TRex-Miner-Plugin-Adapter.exe - Copyright 2021,2022 Crypto Mining Insider All Rights Reserved
 
-This Software works as adapter that allows the T-Rex Miner for Windows to be used by 3rd party miner software tools like Nicehash without any modification to the T-Rex Miner or Nicehash executables or DLL code.  
+This Software works as adapter that allows the T-Rex Miner for Windows to be used by 3rd party miner software tools like Nicehash without any modification to the T-Rex Miner or Nicehash compiled Executable or DLL code.  
  
 This Software is provided AS-IS and Without Any Warranties Expressed or Implied.
 
