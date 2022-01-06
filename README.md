@@ -5,9 +5,9 @@ This Software (CMI-TRex-Miner-Plugin-Adapter.exe) works as an adapter that allow
  
 This Software is provided AS-IS and Without Any Warranties Expressed or Implied.
 
-This Software is Licensed, not sold. Anyone downloading, installing or using this software Agrees to do so solely at their own Risk and in accordance of the terms of this End-User-License-Agreement.pdf ("EULA") file attached in the Download. By Downloading, installing or using thie software you AGREE to the License Terms in the EULA. If you do not Agree to the License Terms STTOP USING and DELETE this Software PRODUCT Immediately.
+This Software is Licensed, not sold. By Downloading, Installing Using or otherwise Accessing this Software, You are AGREEING to the License Terms outlined in the End-User-License-Agreement.pdf ("EULA") included in the Download and on this Site and Agree to do so solely at Your own Risk. If you do Not Agree to the License Terms STOP USING and DELETE this Software Immediately. You are Prohibited from copying or redistributing this software. 
 
-Any Public demonstration or videos using the software must clearly indicate the Official Source of the software and give proper acknowledgements and credit to the Authors (Crypto Mining Insider - Youtube Channel: https://www.youtube.com/c/CryptoMiningInsider)
+Any Public demonstration or videos using the software must clearly indicate the Official Source of the software and give proper acknowledgements and credit to the Authors (Crypto Mining Insider - Youtube Channel: https://www.youtube.com/c/CryptoMiningInsider).
 
 GitHub is the OFFICIAL (and ONLY) Site for downloading our Software: https://github.com/CryptoMiningInsider
 
