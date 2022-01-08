@@ -7,6 +7,6 @@ This Software is Licensed, not sold. By Downloading, Installing Using or otherwi
  
 Any demonstration or presentations (including videos) that use our Licensed Software (TRex Miner Plugin Adapter) must clearly indicate Crypto Mining Insider(TM) as the Official Source and Author of the software "Crypto Mining Insider - Youtube Channel: https://www.youtube.com/c/CryptoMiningInsider"
 
-NOTE: You may NOT DISTRIBUTE, SELL, RENT, COPY, or OTHERWISE TRANSFER or MAKE AVAILABLE to others this licensed software or any subset without the express written permission of the Author 
+NOTE: You may **NOT** DISTRIBUTE, SELL, RENT, COPY, or OTHERWISE TRANSFER or MAKE AVAILABLE to others this licensed software or any subset without the express written permission of the Author 
 
 For Instructions how to use this software please visit YouTube Channel: https://www.youtube.com/c/CryptoMiningInsider
